@@ -5,7 +5,7 @@ Data Engineer | Innovator | Problem Solver
 
 # 🎯 About Me
 
-Passionate about technology, innovation, and problem-solving. With a strong foundation in software development and data engineering, I am always on the lookout for opportunities to apply my skills to impactful projects. My focus is on creating scalable data pipelines, optimizing code, and contributing to innovative solutions.
+Passionate about technology, innovation, and problem-solving. With a strong foundation in software development and data engineering, I am always on the lookout for opportunities to apply my skills to impactful projects. My focus is on creating scalable and efficient systems, optimizing code, and contributing to innovative solutions.
 
 ---
 
