@@ -13,7 +13,7 @@ Passionate about technology, innovation, and problem-solving. With a strong foun
 
 Programming & Tools:
 - Languages: Python, Java, SQL, JavaScript, HTML, CSS, C#, C++
-- Frameworks & Tools: .NET, React, MySQL, Docker, ROS2
+- Frameworks & Tools: .NET, React, MySQL, Docker
 - Key Points:
 Scalable data engineering solutions
 Backend optimization
