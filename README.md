@@ -12,7 +12,7 @@ Passionate about technology, innovation, and problem-solving. With a strong foun
 ## 💻 Skills & Expertise
 
 Programming & Tools:
-- Languages: Python, Java, SQL, JavaScript, HTML, CSS, C#, C++
+- Languages: Python, Java, SQL, JavaScript, HTML, CSS, C#
 - Frameworks & Tools: .NET, React, MySQL, Docker
 - Key Points:
 Scalable data engineering solutions
